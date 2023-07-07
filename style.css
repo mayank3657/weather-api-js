@@ -1,0 +1,8 @@
+body{
+    background-color: #d18e11;
+    color: white;
+    font-weight: bold;
+}
+#search-button,#city-input{
+    border: 2px solid orange;
+}
